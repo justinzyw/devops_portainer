@@ -1,1 +1,1 @@
-from portainer/portainer:pr1093
+from portainer/portainer
